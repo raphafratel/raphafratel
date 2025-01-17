@@ -1,7 +1,5 @@
 ## Hi there 👋
-
-<img src="https://www.reddit.com/r/nostalgia/comments/ckk7qt/another_world_aka_die_a_million_times/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button">
-
+<img src="https://github.com/user-attachments/assets/fee90cec-a23e-4fd1-bfee-77155d09941d" heigth="300">
 <!--
 **raphafratel/raphafratel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![another-world](https://github.com/user-attachments/assets/fee90cec-a23e-4fd1-bfee-77155d09941d)
