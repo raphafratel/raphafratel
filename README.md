@@ -5,10 +5,10 @@
 ### I'm Fullstack Developer
 
 ## 🚀 Sobre mim
-🔍 Curioso por natureza: Sempre busco entender não apenas como algo funciona, mas como posso otimizá-lo.
-🔄 Transição de carreira: Com duas décadas de experiência em suporte técnico, trouxe esse conhecimento para o desenvolvimento, unindo atendimento às pessoas e soluções inovadoras.
-🌱 Aprendizado contínuo: Atualmente focado em TypeScript avançado.
-💡 Interesses: Sou fã de games, futebol e rock.
+- 🔍 Curioso por natureza: Sempre busco entender não apenas como algo funciona, mas como posso otimizá-lo.
+- 🔄 Transição de carreira: Com duas décadas de experiência em suporte técnico, trouxe esse conhecimento para o desenvolvimento, unindo atendimento às pessoas e soluções inovadoras.
+- 🌱 Aprendizado contínuo: Atualmente focado em TypeScript avançado.
+- 💡 Interesses: Sou fã de games, futebol e rock.
 
 
 🌐 Vamos nos conectar?
